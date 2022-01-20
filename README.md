@@ -8,6 +8,9 @@ O relatório foi criado no aplicativo do Report Builder e sua instalação é be
 Voceê pode fazer download no site da Microsoft gratuitamente pelo link: <https://www.microsoft.com/en-us/download/details.aspx?id=58158>
 
 
+
+
+
 **Requisitos míninos:**
 
 - Report Builder
@@ -16,7 +19,10 @@ Voceê pode fazer download no site da Microsoft gratuitamente pelo link: <https:
 - dataset Kaggle <https://www.kaggle.com/gpreda/covid-world-vaccination-progress>
 
 
-****Sintese do desenvolvimento do projeto:**
+
+
+
+**Sintese do desenvolvimento do projeto:**
 
 - Extração do dataset no repositório do Kaggle, 
 - desenvolvimento de um script em python onde leio esses dados e realizo algumas tratativas bem simples e em seguida, carrego esses dados para o banco de dados SQL Server.

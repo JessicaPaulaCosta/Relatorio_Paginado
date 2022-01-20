@@ -10,10 +10,10 @@ Voceê pode fazer download no site da Microsoft gratuitamente pelo link: <https:
 
 **Requisitos míninos:**
 
--> Report Builder
--> Python
--> Banco SQL Server
--> dataset Kaggle <https://www.kaggle.com/gpreda/covid-world-vaccination-progress>
+- Report Builder
+- Python
+- Banco SQL Server
+- dataset Kaggle <https://www.kaggle.com/gpreda/covid-world-vaccination-progress>
 
 
 ****Sintese do desenvolvimento do projeto:**
